@@ -1,3 +1,5 @@
+// Copyright 2020 Ogonyok
+
 #include <iostream>
 
 int main() {
