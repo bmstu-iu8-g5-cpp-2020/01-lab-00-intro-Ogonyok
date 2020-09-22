@@ -1,3 +1,8 @@
+# Binaries
+*
+!*.*
+!*/
+
 # Prerequisites
 *.d
 
@@ -30,3 +35,7 @@
 *.exe
 *.out
 *.app
+
+# Other
+.DS_Store
+.vscode/*
